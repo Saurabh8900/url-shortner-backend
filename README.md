@@ -1,4 +1,4 @@
-# Note App Api
+# Url shortner Api
 
 
 
@@ -70,7 +70,7 @@ Convert conplex and long urls into a simple one that makes it easy to share and 
 
 ## Setup
 
--  Clone the repository: `git clone https://github.com/Naitik2408/Url-Shortner-api.git`
+-  Clone the repository
 
 - run `cd  Url-Shortener`
 
